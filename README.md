@@ -8,3 +8,6 @@ https://youtu.be/mUXAC9CVfR0
 
 Video 3 - Final
 https://youtu.be/mSx3drCbiYc
+
+Kaggle Julián Palacio
+https://www.kaggle.com/julianpalaciovelez
